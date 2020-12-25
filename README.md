@@ -17,6 +17,11 @@ anaconda Spyder
 处理100行数据时结果  
 ![](https://github.com/banzhan1998/houseprice/blob/main/hp_predict.jpg)
 
+处理全部36612条数据时结果
+
+![](https://github.com/banzhan1998/houseprice/blob/main/hp_predictall.jpg)
+
+
 
 
 ## 参考代码链接
