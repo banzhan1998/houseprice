@@ -13,8 +13,8 @@ python 3.8
 anaconda Spyder
 
 
-## 代码实验结果图
-
+## 代码实验结果图  
+处理100行数据时结果  
 ![](https://github.com/banzhan1998/houseprice/blob/main/hp_predict.jpg)
 
 
