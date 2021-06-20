@@ -25,7 +25,7 @@ anaconda Spyder
 
 ![](https://github.com/banzhan1998/houseprice/blob/main/hp_predictall.jpg)
 
-
+PS：git图床好像崩了，重新上传图片无效，原有图片也没法下载出来，如有需要请私戳我
 
 
 ## 参考代码链接
