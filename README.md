@@ -18,15 +18,14 @@ anaconda Spyder
 
 
 ## 代码实验结果图  
-处理100行数据时结果  
+处理100行数据时结果(hp_predict.jpg)  
 ![](https://github.com/banzhan1998/houseprice/blob/main/hp_predict.jpg)
 
-处理全部36612条数据时结果
+处理全部36612条数据时结果(hp_predictall.jpg)
 
 ![](https://github.com/banzhan1998/houseprice/blob/main/hp_predictall.jpg)
 
-PS：git图床好像崩了，重新上传图片无效，原有图片也没法下载出来，如有需要请私戳我
-
+PS：git图床好像崩了，重新上传图片无效，原有图片也没法单独下载出来，有需要整个下载应该能下出来
 
 ## 参考代码链接
 
